@@ -1,9 +1,11 @@
 # V-REP-Simulator-Projects
 
-What is V-REP - 
+V-REP - 
+
 General purpose robot simulator with integrated development environment
 
 Function - 
+
 Sensors, mechanisms, robots and whole systems can be modelled and simulated in various ways
 
 
