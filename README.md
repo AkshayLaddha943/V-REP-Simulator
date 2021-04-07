@@ -7,17 +7,13 @@ General purpose robot simulator with integrated development environment
 Sensors, mechanisms, robots and whole systems can be modelled and simulated in various ways
 
 ## Applications - 
-Fast prototyping and verification
-
-Controller development
-
-Hardware control
-
-Simulation of factory automation systems
-
-Safety monitoring
-
+Fast prototyping and verification, 
+Controller development, 
+Hardware control,
+Simulation of factory automation systems, 
+Safety monitoring, 
 Product presentation
+
 
 
 
