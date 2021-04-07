@@ -8,11 +8,18 @@ Sensors, mechanisms, robots and whole systems can be modelled and simulated in v
 
 ## Applications - 
 Fast prototyping and verification
+
 Controller development
+
 Hardware control
+
 Simulation of factory automation systems
+
 Safety monitoring
+
 Product presentation
+
+
 
 
 This repository includes - 
