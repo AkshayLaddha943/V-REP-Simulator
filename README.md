@@ -1,5 +1,12 @@
 # V-REP-Simulator-Projects
 
+# V-REP - 
+General purpose robot simulator with integrated development environment
+
+# Function - 
+Sensors, mechanisms, robots and whole systems can be modelled and simulated in various ways
+
+
 This repository includes - 
 
 1. DYOR (Do your own Robot) files : 
